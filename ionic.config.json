@@ -1,0 +1,7 @@
+{
+  "name": "PerformanceInstrument",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
